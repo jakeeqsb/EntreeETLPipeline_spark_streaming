@@ -1,0 +1,19 @@
+
+This collection contains files related to the Entree system.
+
+There are two directories:  
+
+data 	- the data files describing restaurants of various cities and a master feature dictionary.
+session - session data gathered from the use of the Entree system
+
+There are README files in each directory that describe the specific file formats.
+
+For more information about the Entree system, see
+
+Knowledge-based Recommender Systems. To appear in the Encyclopedia of Library and Information Science.
+(http://www.ics.uci.edu/~burke/research/papers/burke-elis-00.pdf.gz, compressed Postscript 870k).
+
+The Wasabi Personal Shopper: A Case-Based Recommender System. In Proceedings of the 11th National
+Conference on Innovative Applications of Artificial Intelligence, pages 844-849. AAAI, 1999. 
+(http://www.ics.uci.edu/~burke/research/papers/burke-iaai-99.pdf.gz, compressed Postscript 147k).
+
